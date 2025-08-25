@@ -284,19 +284,11 @@ RU:
 | Enhanced Visuals               | Эффекты урона                    | Damage visuals                 |
 | Exposure                       | Фотоаппарат                      | Camera & photography           |
 | Fancy Menu                     | Кастомное меню                   | Custom menu                    |
-| FTB Backups 2                  | Бэкапы                           | Backups                        |
-| FTB Chunks                     | Клейм чанков                     | Chunk claiming                 |
-| FTB Essentials                 | Серверные команды                | Server commands                |
-| FTB Quests                     | Квесты                           | Quests                         |
-| FTB Quests Precision Localizer | Локализация квестов              | Quest localization             |
-| FTB Teams                      | Команды                          | Teams                          |
 | Jade                           | Информация о блоке               | Block information              |
 | JEI                            | Просмотр рецептов                | Recipe viewer                  |
 | JEI Integrations               | Расширенные рецепты              | Extra JEI features             |
 | Just Enough Resources          | Дроп мобов                       | Mob drops in JEI               |
 | JourneyMap                     | Карта                            | Map                            |
-| JourneyMap Integration         | Карта + FTB Chunks               | Map + Chunks integration       |
-| JourneyMap Teams               | Карта + FTB Teams                | Map + Teams integration        |
 | Explorer’s Compass             | Компас на структуры              | Structure compass              |
 | Nature Compass                 | Компас на биомы                  | Biome compass                  |
 | Joy of Painting                | Рисование                        | Painting                       |
