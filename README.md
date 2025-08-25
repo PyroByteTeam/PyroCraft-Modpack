@@ -1,3 +1,5 @@
+![logo](/images/logo.png)
+
 # PyroCraft
 
 A **Create-focused SMP-style modpack** made by the **PyroByte Team**.  
