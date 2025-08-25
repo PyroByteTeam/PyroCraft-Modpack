@@ -2,6 +2,24 @@
 
 # PyroCraft
 
+# This project is currently in work in progress state. There are parts of it that are not done yet and require polish
+
+TODO:
+- Quests
+- Mods compatibility test
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Modlist](#modlist)
+- [Download](#download)
+- [Installation](#installation)
+- [Credits](#credits)
+- [License](#license)
+- [Русская версия](#pyrocraft-русская-версия)
+
 A **Create-focused SMP-style modpack** made by the **PyroByte Team**.  
 PyroCraft is designed for players who enjoy playing both **solo** and with **friends**, without a forced end goal.  
 At its core, the pack revolves around the **Create mod** and its addons, offering powerful tools for automation, engineering, and creativity.
@@ -23,8 +41,9 @@ The pack also includes **quests** to help new players learn how to use Create an
 ## Modlist
 
 A complete modlist is available here:  
-👉 [View Up-To-Date Modlist](/current_list.md)
 👉 [View Modlist on Github Wiki](https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/Modlist)
+
+On our Github page modlist is up-to-date to our modpack
 
 ---
 
@@ -61,6 +80,12 @@ Please respect the rights of the individual mod developers.
 
 # PyroCraft (Русская версия)
 
+# Этот проект находится на стадии создания. Есть вещи, что еще не готовы, такие как квесты.
+
+Не готово:
+- Квесты
+- Проверка совместимости модов
+
 **PyroCraft** — это модпак в стиле **SMP**, созданный командой **PyroByte Team**.  
 Он подходит как для **одиночной игры**, так и для **совместного выживания с друзьями**.  
 Основу сборки составляет мод **Create** и его аддоны, открывающие широкие возможности для автоматизации, инженерии и творчества.
@@ -82,8 +107,9 @@ Please respect the rights of the individual mod developers.
 ## Список модов
 
 Полный список модов доступен здесь:  
-👉 [Список модов (обновленный)](/current_list.md)
 👉 [Список модов на Github Wiki (может несоответствовать текущей версии)](https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/Modlist)
+
+На нашем Github этот список соответствует текущей версии модпака
 
 ---
 
