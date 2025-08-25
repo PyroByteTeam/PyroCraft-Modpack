@@ -23,7 +23,8 @@ The pack also includes **quests** to help new players learn how to use Create an
 ## Modlist
 
 A complete modlist is available here:  
-👉 [View Modlist](/current_list.md)
+👉 [View Up-To-Date Modlist](/current_list.md)
+👉 [View Modlist on Github Wiki](https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/Modlist)
 
 ---
 
@@ -81,7 +82,8 @@ Please respect the rights of the individual mod developers.
 ## Список модов
 
 Полный список модов доступен здесь:  
-👉 [Список модов](/current_list.md)
+👉 [Список модов (обновленный)](/current_list.md)
+👉 [Список модов на Github Wiki (может несоответствовать текущей версии)](https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/Modlist)
 
 ---
 
