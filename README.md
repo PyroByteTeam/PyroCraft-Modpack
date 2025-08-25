@@ -2,7 +2,7 @@
 
 # PyroCraft
 
-# This project is currently in work in progress state. There are parts of it that are not done yet and require polish
+**This project is currently in work in progress state. There are parts of it that are not done yet and require polish**
 
 TODO:
 - Quests
@@ -69,6 +69,13 @@ You can download PyroCraft from Modrinth:
 - **Create Mod Developers** – The foundation of PyroCraft.  
 - **All Mod Authors** – For making this pack possible.  
 
+<details>
+<summary>
+Attribution Mentions
+</summary>
+Obscure Tooltips by Obscuria (very good and modern item tooltips mod) - [link](https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips)
+</details>
+
 ---
 
 ## License
@@ -80,7 +87,7 @@ Please respect the rights of the individual mod developers.
 
 # PyroCraft (Русская версия)
 
-# Этот проект находится на стадии создания. Есть вещи, что еще не готовы, такие как квесты.
+**Этот проект находится на стадии создания. Есть вещи, что еще не готовы, такие как квесты.**
 
 Не готово:
 - Квесты
@@ -134,6 +141,13 @@ Please respect the rights of the individual mod developers.
 - **PyroByte Team** — создатели и поддерживающие сборку.  
 - **Разработчики Create** — основной мод, использующийся в PyroCraft.  
 - **Все авторы модов** — благодаря им эта сборка существует.  
+
+<details>
+<summary>
+Упоминания Аттрибуции
+</summary>
+Obscure Tooltips от Obscuria (очень хороший современный мод на описания предметов в инвентаре) - [ссылка](https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips)
+</details>
 
 ---
 
