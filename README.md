@@ -4,9 +4,9 @@
 
 **This project is currently in work in progress state. There are parts of it that are not done yet and require polish**
 
-TODO:
-- Quests
-- Mods compatibility test
+---
+
+Our Wiki: https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki
 
 ---
 
@@ -89,15 +89,15 @@ Please respect the rights of the individual mod developers.
 
 **Этот проект находится на стадии создания. Есть вещи, что еще не готовы, такие как квесты.**
 
-Не готово:
-- Квесты
-- Проверка совместимости модов
-
 **PyroCraft** — это модпак в стиле **SMP**, созданный командой **PyroByte Team**.  
 Он подходит как для **одиночной игры**, так и для **совместного выживания с друзьями**.  
 Основу сборки составляет мод **Create** и его аддоны, открывающие широкие возможности для автоматизации, инженерии и творчества.
 
 В модпак также добавлены **квесты**, которые помогут новичкам разобраться в моде Create и его дополнениях.
+
+---
+
+Наше Wiki: https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki
 
 ---
 
