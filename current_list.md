@@ -217,7 +217,7 @@ RU:
 | CC Tweaked                 | Компьютеры, программирование | Computers & coding       |
 | Advanced Peripherals       | Доп. периферия для CC        | Extra peripherals for CC |
 | Tom’s Peripherals          | Расширенная периферия        | Advanced peripherals     |
-| CC\:C Bridge               | CC + Create                  | CC + Create bridge       |
+| CC:C Bridge               | CC + Create                  | CC + Create bridge       |
 | Waterframes                | Медиа-дисплеи                | Multimedia displays      |
 | Waterframes CC Compat      | Совместимость с CC           | CC compatibility         |
 | Simply Swords              | Оружие                       | Weapon expansion         |
@@ -272,41 +272,46 @@ RU:
 
 ## 🧰 Utility & Misc
 
-| Mod                            | Description (RU)                 | Description (EN)               |
-| ------------------------------ | -------------------------------- | ------------------------------ |
-| Better Combat                  | Анимации Боя                     | Fighting Animations            |
-| Let's Do Liquids               | Совместимость жидкостей Let's Do | Let's Do liquids compatibility |
-| Let's Do Compat                | Совместимость Let's Do + FD      | Let's Do + FD compatibility    |
-| Ambient Sounds                 | Атмосферные звуки                | Ambient sounds                 |
-| Do a Barrel Roll               | Полёт бочкой на элитрах          | Barrel roll with elytra        |
-| Create Numismatics             | Валюта и торговля                | Currency & trading             |
-| Emogg                          | Эмодзи                           | Emojis in chat & signs         |
-| Enhanced Visuals               | Эффекты урона                    | Damage visuals                 |
-| Exposure                       | Фотоаппарат                      | Camera & photography           |
-| Fancy Menu                     | Кастомное меню                   | Custom menu                    |
-| Jade                           | Информация о блоке               | Block information              |
-| JEI                            | Просмотр рецептов                | Recipe viewer                  |
-| JEI Integrations               | Расширенные рецепты              | Extra JEI features             |
-| Just Enough Resources          | Дроп мобов                       | Mob drops in JEI               |
-| JourneyMap                     | Карта                            | Map                            |
-| Explorer’s Compass             | Компас на структуры              | Structure compass              |
-| Nature Compass                 | Компас на биомы                  | Biome compass                  |
-| Joy of Painting                | Рисование                        | Painting                       |
-| Lootr                          | Уникальный лут                   | Unique loot per player         |
-| Modonomicon                    | Документация                     | Documentation                  |
-| Patchouli                      | Книжки документации              | Documentation books            |
-| Not Enough Animations          | Анимации игрока                  | Extra player animations        |
-| Presence Footsteps             | Реалистичные шаги                | Realistic footsteps            |
-| Seamless Loading Screen        | Красивый загрузочный экран       | Seamless loading screen        |
-| Simple Voice Chat              | Голосовой чат                    | Voice chat                     |
-| Simple Voice Radio             | Радио и антенны                  | Radios & transmitters          |
-| Spice of Life: Valheim Updated | Система еды как в Valheim        | Valheim-style food system      |
-| Sophisticated Backpacks        | Рюкзаки с модулями               | Modular backpacks              |
-| Sounds                         | Звуки инвентаря                  | Inventory & interaction sounds |
-| Table Top Craft                | Настольные игры                  | Tabletop games                 |
-| TorchMaster                    | Контроль спавна факелами         | Mob spawn control torches      |
-| Visual Workbench               | Визуальный верстак               | Visual crafting table          |
-| Immersive Melodies             | Музыкальные инструменты (MIDI)   | Musical instruments (MIDI)     |
-| Reforged (former TieredZ)      | Тиры брони и оружию              | Tiers of Armor and Weapons     |
+| Mod                            | Description (RU)                           | Description (EN)               |
+| ------------------------------ | ------------------------------------------ | ------------------------------ |
+| Better Combat                  | Анимации Боя                               | Fighting Animations            |
+| Let's Do Liquids               | Совместимость жидкостей Let's Do           | Let's Do liquids compatibility |
+| Let's Do Compat                | Совместимость Let's Do + FD                | Let's Do + FD compatibility    |
+| Ambient Sounds                 | Атмосферные звуки                          | Ambient sounds                 |
+| Do a Barrel Roll               | Полёт бочкой на элитрах                    | Barrel roll with elytra        |
+| Create Numismatics             | Валюта и торговля                          | Currency & trading             |
+| Emogg                          | Эмодзи                                     | Emojis in chat & signs         |
+| Enhanced Visuals               | Эффекты урона                              | Damage visuals                 |
+| Exposure                       | Фотоаппарат                                | Camera & photography           |
+| Fancy Menu                     | Кастомное меню                             | Custom menu                    |
+| Jade                           | Информация о блоке                         | Block information              |
+| JEI                            | Просмотр рецептов                          | Recipe viewer                  |
+| JEI Integrations               | Расширенные рецепты                        | Extra JEI features             |
+| EMI                            | Продвинутый просмотр рецептов              | Advanced Recipe Viewer         |
+| Advanced Loot Info             | EMI Аддон на продвинутую информацию о луте | EMI advanced loot info add-On  |
+| EMI Create Schematics          | EMI Аддон на сохранение предметов схематики| EMI schematic requirement addon|
+| EMI Ores                       | EMI Аддон на высоту руд                    | EMI ore height Add-On          |
+| EMI Enchants                   | EMI Аддон на информацию о чарах            | EMI enchanting info add-On     |
+| EMI Trades                     | EMI Аддон на трейды жителей                | EMI villager trades add-On     |
+| JourneyMap                     | Карта                                      | Map                            |
+| Explorer’s Compass             | Компас на структуры                        | Structure compass              |
+| Nature Compass                 | Компас на биомы                            | Biome compass                  |
+| Joy of Painting                | Рисование                                  | Painting                       |
+| Lootr                          | Уникальный лут                             | Unique loot per player         |
+| Modonomicon                    | Документация                               | Documentation                  |
+| Patchouli                      | Книжки документации                        | Documentation books            |
+| Not Enough Animations          | Анимации игрока                            | Extra player animations        |
+| Presence Footsteps             | Реалистичные шаги                          | Realistic footsteps            |
+| Seamless Loading Screen        | Красивый загрузочный экран                 | Seamless loading screen        |
+| Simple Voice Chat              | Голосовой чат                              | Voice chat                     |
+| Simple Voice Radio             | Радио и антенны                            | Radios & transmitters          |
+| Spice of Life: Valheim Updated | Система еды как в Valheim                  | Valheim-style food system      |
+| Sophisticated Backpacks        | Рюкзаки с модулями                         | Modular backpacks              |
+| Sounds                         | Звуки инвентаря                            | Inventory & interaction sounds |
+| Table Top Craft                | Настольные игры                            | Tabletop games                 |
+| TorchMaster                    | Контроль спавна факелами                   | Mob spawn control torches      |
+| Visual Workbench               | Визуальный верстак                         | Visual crafting table          |
+| Immersive Melodies             | Музыкальные инструменты (MIDI)             | Musical instruments (MIDI)     |
+| Reforged (former TieredZ)      | Тиры брони и оружию                        | Tiers of Armor and Weapons     |
 
 ---
