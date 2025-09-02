@@ -103,6 +103,7 @@ RU:
 
 | Mod                             | Description (RU)                           | Description (EN)                          |
 | ------------------------------- | ------------------------------------------ | ----------------------------------------- |
+| Aquaculture 2                   | Продвинутая система рыбалки и другое       | Advanced Fishing System and Expansion     |
 | Let's Do Blooming Nature        | Замена стандартных биомов                  | Replaces vanilla biomes                   |
 | Let's Do Structures             | Структуры Let's Do                         | Let's Do structures                       |
 | Alex’s Caves                    | Пещеры и приключения в них                 | Underground caves & adventures            |
@@ -119,7 +120,7 @@ RU:
 | End Dragon Fight Remastered     | Новый бой с драконом                       | Remastered Ender Dragon fight             |
 | Explorify                       | Улучшенные ванильные структуры             | Improved vanilla structures               |
 | Incendium                       | Структуры, предметы и мобы в Аду           | Nether expansion (structures, mobs, loot) |
-| Moog Structures (4 types)        | Новые структуры для миров                  | New world structures                      |
+| Moog Structures (4 types)       | Новые структуры для миров                 | New world structures                      |
 | Mowzie’s Mobs                   | Боссы и мобы                               | Fantasy bosses & mobs                     |
 | Mythic Mounts                   | Маунты и ездовые звери                     | Rideable creatures & mounts               |
 | Philips Ruins                   | Руины                                      | Ruins                                     |
@@ -162,6 +163,7 @@ RU:
 | Farmer’s Delight              | Еда                       | Food expansion                 |
 | Alex’s Caves Delight          | Аддон FD для Alex’s Caves | FD addon for Alex’s Caves      |
 | Alex Delight                  | Аддон FD для Alex’s Mobs  | FD addon for Alex’s Mobs       |
+| Aquaculture Delight           | Аддон FD для Aquaculture 2| FD addon for Aquaculture 2     |
 | Ars Nouveau Flavors & Delight | Аддон FD для Ars Nouveau  | FD addon for Ars Nouveau       |
 | Chef’s Delight                | Жители для FD             | Villagers for FD               |
 | Ender’s Delight               | Еда Энда                  | End-themed food                |
@@ -312,5 +314,6 @@ RU:
 | Visual Workbench               | Визуальный верстак                         | Visual crafting table          |
 | Immersive Melodies             | Музыкальные инструменты (MIDI)             | Musical instruments (MIDI)     |
 | Reforged (former TieredZ)      | Тиры брони и оружию                        | Tiers of Armor and Weapons     |
+| Stardew Fishing                | Рыбалка из Stardew Valley                  | Stardew Valley Fishing System  |
 
 ---
