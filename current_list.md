@@ -193,7 +193,6 @@ RU:
 | Create Better Recipes (СС) | Усложнённые рецепты        | Harder recipes         |
 | Create Steam N Rails       | Железные дороги            | Railways expansion     |
 | Create Missions            | Миссии с валютой           | Missions with currency |
-| Create Protection Pixel    | Броня Create               | Special Create armor   |
 | Create Connected           | QOL блоки Create           | QOL blocks for Create  |
 
 <a id="magic"></a>
