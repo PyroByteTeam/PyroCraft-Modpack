@@ -172,6 +172,7 @@ RU:
 | Ocean’s Delight               | Морская еда               | Ocean-themed food              |
 | Create Slice & Dice           | Совместимость Create с FD | Create compatibility with FD   |
 | Create Central Kitchen        | Кулинария через Create    | Cooking automation with Create |
+| Gensokyo Delight              | 140+ Японской еды         | 140+ Japanese food variants    |
 
 ---
 
@@ -281,7 +282,7 @@ RU:
 | Ambient Sounds                 | Атмосферные звуки                          | Ambient sounds                 |
 | Do a Barrel Roll               | Полёт бочкой на элитрах                    | Barrel roll with elytra        |
 | Create Numismatics             | Валюта и торговля                          | Currency & trading             |
-| Emogg                          | Эмодзи                                     | Emojis in chat & signs         |
+| Emojiful                       | Эмодзи в чате и табличках                  | Emojis in chat & signs         |
 | Enhanced Visuals               | Эффекты урона                              | Damage visuals                 |
 | Exposure                       | Фотоаппарат                                | Camera & photography           |
 | Fancy Menu                     | Кастомное меню                             | Custom menu                    |
