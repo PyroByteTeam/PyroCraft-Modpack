@@ -316,7 +316,6 @@ RU:
 | TorchMaster                    | Контроль спавна факелами                   | Mob spawn control torches      |
 | Visual Workbench               | Визуальный верстак                         | Visual crafting table          |
 | Immersive Melodies             | Музыкальные инструменты (MIDI)             | Musical instruments (MIDI)     |
-| Reforged (former TieredZ)      | Тиры брони и оружию                        | Tiers of Armor and Weapons     |
 | Stardew Fishing                | Рыбалка из Stardew Valley                  | Stardew Valley Fishing System  |
 
 ---
