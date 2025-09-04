@@ -80,8 +80,10 @@ RU:
 | Fairy Lights              | Гирлянды и освещение                         | Hanging lights & garlands         |
 | Framed Blocks             | Заполняемые блоки-формы                      | Frame blocks to fill              |
 | Immersive Paintings       | Картины и кастомные картины                  | Paintings & custom paintings      |
+| Chipped                   | Много вариаций Блоков                        | A lot of block variations         |
 | Rechiseled                | Блоки декораций и их переделка               | Decorative blocks & chiseling     |
 | Rechiseled Create         | Автоматизация блоков Rechiseled через Create | Rechiseled automation with Create |
+| Rechiseled Chipped        | Аддон для связки Rechiseled + Chipped        | Addon for Rechiseled + Chipped    |
 | Supplementaries           | Множество декоративных мелочей               | Many decorative objects           |
 | Chimes                    | Функциональные Звенящие Предметы             | Functional Chimes objects         |
 
