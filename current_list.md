@@ -243,7 +243,7 @@ RU:
 | Better F3                   | Улучшенный F3                          | Improved F3 screen          |
 | Chat Heads                  | Головы игроков в чате                  | Player heads in chat        |
 | Chat Impressive Animation   | Анимации чата                          | Smooth chat animations      |
-| Corpse                      | Труп игрока с лутом                    | Player corpse with loot     |
+| noes's Gravestones          | Могила игрока с лутом                  | Player gravestone with loot |
 | Curios                      | Доп. слоты                             | Extra slots                 |
 | Draggable Lists             | Удобное перемещение списков            | Draggable lists             |
 | Easy Anvils                 | Улучшенные наковальни                  | Better anvils               |
