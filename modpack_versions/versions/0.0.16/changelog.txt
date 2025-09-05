@@ -1,0 +1,13 @@
+Type: chore
+
+## EN
+- Updated Sophisticated Backpacks
+- Updated Sophisticated Storage
+- Updated Storage Drawers
+- Updated Create Steam N Rails
+
+## RU
+- Обновлен Sophisticated Backpacks
+- Обновлен Sophisticated Storage
+- Обновлен Storage Drawers
+- Обновлен Create Steam N Rails
