@@ -1,0 +1,7 @@
+## EN
+- Added Create: Protection Pixel
+- Kubejs Cast iron recipe fix
+
+## RU
+- Добавлен Create: Protection Pixel 
+- Фикс рецептов железа через Kubejs

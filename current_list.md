@@ -200,6 +200,7 @@ RU:
 | Create Missions            | Миссии с валютой           | Missions with currency |
 | Create Connected           | QOL блоки Create           | QOL blocks for Create  |
 | Create: Power Loader       | Chunk-Лоадер на Create     | Create Chunk Loader    |
+| Create Protection Pixel    | Броня Create               | Create Armor           |
 
 <a id="magic"></a>
 
