@@ -1,5 +1,0 @@
-## EN 
-- Added Create: Power Loader
-
-## RU 
-- Добавлен Create: Power Loader

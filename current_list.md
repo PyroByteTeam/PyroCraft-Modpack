@@ -201,6 +201,7 @@ RU:
 | Create Connected           | QOL блоки Create           | QOL blocks for Create  |
 | Create: Power Loader       | Chunk-Лоадер на Create     | Create Chunk Loader    |
 | Create Protection Pixel    | Броня Create               | Create Armor           |
+| Create:Enchantment Industry| Обработка Опыта            | Experience Handling    |
 
 <a id="magic"></a>
 

@@ -3,6 +3,16 @@
   "hotfixesFormat": null,
   "versions": [
     {
+        "id": "0.0.20",
+        "releasedAt": 1757354881007,
+        "promotions": {
+            "downloads": {
+                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.20"
+            }
+        },
+        "updateType": "minor"
+    },
+    {
         "id": "0.0.19",
         "releasedAt": 1757320385235,
         "promotions": {
