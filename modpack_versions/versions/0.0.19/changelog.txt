@@ -1,0 +1,13 @@
+## EN
+- Deleted Simple Voice Chat
+- Deleted Simple Radio
+- Added Plasmo Voice
+- Added Add-On Sound Physics for Plasmo Voice 
+- Added Add-On Whisper for Plasmo Voice 
+
+## RU
+- Удален Simple Voice Chat
+- Удален Simple Radio
+- Добавлен Plasmo Voice
+- Добавлен Sound Physics Аддон для Plasmo Voice 
+- Добавлен Whisper Аддон для Plasmo Voice 
