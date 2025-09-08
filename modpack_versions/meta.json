@@ -3,21 +3,23 @@
   "hotfixesFormat": null,
   "versions": [
     {
-        "id": "0.0.20",
-        "releasedAt": 1757354881007,
+        "id": "0.0.19",
+        "releasedAt": 1757320385235,
         "promotions": {
             "downloads": {
-                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.20"
+                "modrinth": "https://modrinth.com/modpack/pyrocraft-create/version/0.0.19",
+                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.19"
             }
         },
         "updateType": "minor"
     },
     {
-        "id": "0.0.19",
-        "releasedAt": 1757320385235,
+        "id": "0.0.20",
+        "releasedAt": 1757354881007,
         "promotions": {
             "downloads": {
-                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.19"
+                "modrinth": "https://modrinth.com/modpack/pyrocraft-create/version/0.0.20",
+                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.20"
             }
         },
         "updateType": "minor"
