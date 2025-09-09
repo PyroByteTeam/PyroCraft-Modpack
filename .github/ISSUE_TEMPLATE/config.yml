@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 Installation & Configuration Guide (EN)
+    url: https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/EN-Install-and-FAQ
+    about: Please read this before opening an issue!
+  - name: 📝 Руководство по установке и настройке (RU)
+    url: https://github.com/PyroByteTeam/PyroCraft-Modpack/wiki/RU-Install-and-FAQ
+    about: Пожалуйста, ознакомьтесь с руководством перед созданием issue!
