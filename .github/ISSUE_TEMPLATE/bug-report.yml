@@ -1,0 +1,56 @@
+name: "🐞 Bug Report"
+description: "Report a problem with the modpack"
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Please fill out the form below so we can help.
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: "Minecraft Version"
+      description: "Which version are you running? (e.g. 1.20.1)"
+      placeholder: "1.20.1"
+    validations:
+      required: true
+  - type: input
+    id: forge-version
+    attributes:
+      label: "Forge Version"
+      description: "Exact Forge build number (e.g. 47.4.6)"
+      placeholder: "47.4.6"
+    validations:
+      required: true
+  - type: input
+    id: modpack-version
+    attributes:
+      label: "Modpack Version"
+      description: "Which PyroCraft version are you using?"
+      placeholder: "v0.0.20"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "What happened?"
+      description: "Explain the issue clearly. What did you expect vs what happened?"
+      placeholder: "When I place a Create contraption, it blows up..."
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs/Crash Report"
+      description: "Paste the contents of `latest.log` or `crash-report.txt`. Use a paste service if it's long."
+      placeholder: "Paste your log here or provide a link"
+  - type: dropdown
+    id: reproducible
+    attributes:
+      label: "Can you reproduce the issue?"
+      options:
+        - "Always"
+        - "Sometimes"
+        - "Rarely"
+        - "Cannot reproduce"

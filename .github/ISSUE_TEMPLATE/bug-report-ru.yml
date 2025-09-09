@@ -1,0 +1,48 @@
+name: "🐞 Отчёт о баге"
+description: "Сообщите о проблеме с модпаком"
+title: "[Баг]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо за отчёт! Пожалуйста, заполните форму ниже, чтобы мы могли помочь.
+  - type: input
+    id: forge-version
+    attributes:
+      label: "Версия Forge"
+      description: "Укажите точный билд Forge (например, 47.4.6)"
+      placeholder: "47.4.6"
+    validations:
+      required: true
+  - type: input
+    id: modpack-version
+    attributes:
+      label: "Версия модпака"
+      description: "Какую версию PyroCraft вы используете?"
+      placeholder: "v0.0.20"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Что произошло?"
+      description: "Опишите проблему подробно. Что ожидалось и что случилось на самом деле?"
+      placeholder: "Когда я разместил механизм Create, он взорвался..."
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Логи/Краш-репорт"
+      description: "Вставьте содержимое `latest.log` или `crash-report.txt`. Если файл длинный, используйте paste-сервис."
+      placeholder: "Вставьте лог сюда или дайте ссылку"
+  - type: dropdown
+    id: reproducible
+    attributes:
+      label: "Можно ли воспроизвести баг?"
+      options:
+        - "Всегда"
+        - "Иногда"
+        - "Редко"
+        - "Не удаётся воспроизвести"
