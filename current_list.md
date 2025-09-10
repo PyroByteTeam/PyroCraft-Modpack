@@ -86,6 +86,8 @@ RU:
 | Rechiseled Chipped        | Аддон для связки Rechiseled + Chipped        | Addon for Rechiseled + Chipped    |
 | Supplementaries           | Множество декоративных мелочей               | Many decorative objects           |
 | Chimes                    | Функциональные Звенящие Предметы             | Functional Chimes objects         |
+| Factory Blocks            | Блоки Декорация для завода                   | Deco blocks for factory           |
+| immersive Furniture       | Кастомная Мебель                             | Custom furniture                  |
 
 <a id="storage"></a>
 
@@ -122,7 +124,7 @@ RU:
 | End Dragon Fight Remastered     | Новый бой с драконом                       | Remastered Ender Dragon fight             |
 | Explorify                       | Улучшенные ванильные структуры             | Improved vanilla structures               |
 | Incendium                       | Структуры, предметы и мобы в Аду           | Nether expansion (structures, mobs, loot) |
-| Moog Structures (4 types)       | Новые структуры для миров                 | New world structures                      |
+| Moog Structures (4 types)       | Новые структуры для миров                  | New world structures                      |
 | Mowzie’s Mobs                   | Боссы и мобы                               | Fantasy bosses & mobs                     |
 | Mythic Mounts                   | Маунты и ездовые звери                     | Rideable creatures & mounts               |
 | Philips Ruins                   | Руины                                      | Ruins                                     |
@@ -133,6 +135,7 @@ RU:
 | Traveler’s Titles               | Подписи при входе в биом                   | Titles when entering biomes               |
 | All from YUNG                   | Генерация структур и данжей                | Structures & dungeons (YUNG’s series)     |
 | Dimensional Doors               | Порталы в подпространства                  | Pocket-Dimensions and Portals             |
+| Bosses N Rise                   | Интересные проработанные боссы             | Interesting well-made bosses              |
 
 ---
 

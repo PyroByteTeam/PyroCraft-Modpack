@@ -1,0 +1,11 @@
+## EN
+- Added Factory Blocks
+- Added Immersive Furniture
+- Added Bosses N Rise
+- Added Create Optimization Mods
+
+## RU
+- Добавлен Factory Blocks
+- Добавлен Immersive Furniture
+- Добавлен Bosses N Rise
+- Добавлен Create Optimization Mods
