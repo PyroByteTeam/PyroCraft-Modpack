@@ -8,4 +8,4 @@
 - Добавлен Factory Blocks
 - Добавлен Immersive Furniture
 - Добавлен Bosses N Rise
-- Добавлен Create Optimization Mods
+- Добавлены моды оптимизации Create
