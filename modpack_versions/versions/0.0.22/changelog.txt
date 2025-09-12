@@ -1,0 +1,33 @@
+## EN
+BETA = NOT ALL QUESTS PRESENT
+- Updated Sophisticated Backpacks to the latest version
+- Updated Sophisticated Storage to the latest version
+- Updated Sophisticated Core to the latest version
+- Updated Storage Drawers to the latest version
+- Updated Watermedia API to the latest version
+- Updated Moonlight Lib to the latest version
+- Updated Advanced Loot Info to the latest version
+- Updated Let's Do Vinery to the latest version
+- Updated Supplementaries to the latest version
+- Updated Warium Ponder to the latest version
+- Updated Balm to the latest version
+- Updated Create: Central Kitchen to the latest version
+
+Create: Protection Pixel was not updated to the newest version and probably won't ever be updated. Reason: recent updates include a library that is causing serious performance problems on any PC.
+
+## RU
+БЕТА = НЕ ВСЕ КВЕСТЫ ЕСТЬ
+- Sophisticated Backpacks был обновлен до последней версии
+- Sophisticated Storage был обновлен до последней версии
+- Sophisticated Core был обновлен до последней версии
+- Storage Drawers был обновлен до последней версии
+- Watermedia API был обновлен до последней версии
+- Moonlight Lib был обновлен до последней версии
+- Advanced Loot Info был обновлен до последней версии
+- LEt's Do Vinery был обновлен до последней версии
+- Supplementaries был обновлен до последней версии
+- Warium Ponder был обновлен до последней версии
+- Balm был обновлен до последней версии
+- Create: Central Kitchen был обновлен до последней версии
+
+Create: Protection Pixel не был обновлен и скорее всего никогда не будет обновлен на последнюю версию. Причина: последние обновления этого мода используют библиотеку, вызывающую серьезные проблемы с производительностью на любом ПК.

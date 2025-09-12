@@ -230,10 +230,6 @@ RU:
 | CC:C Bridge               | CC + Create                  | CC + Create bridge       |
 | Waterframes                | Медиа-дисплеи                | Multimedia displays      |
 | Waterframes CC Compat      | Совместимость с CC           | CC compatibility         |
-| Simply Swords              | Оружие                       | Weapon expansion         |
-| Simply More                | Аддон на Simply Swords       | Simply Swords addon      |
-| Spartan Shields & Weaponry | Щиты и оружие                | Shields & weaponry       |
-| Tinkers Construct          | Кастомные инструменты        | Custom tools & smelting  |
 | Warium                     | Оружие, пушки, бомбы         | Weapons, cannons, bombs  |
 | Warium Computers           | Warium + CC                  | Warium + CC integration  |
 | Warium Ponder + JEI        | JEI Ponder для Warium        | Warium content in JEI    |
@@ -324,5 +320,9 @@ RU:
 | Visual Workbench               | Визуальный верстак                         | Visual crafting table            |
 | Immersive Melodies             | Музыкальные инструменты (MIDI)             | Musical instruments (MIDI)       |
 | Stardew Fishing                | Рыбалка из Stardew Valley                  | Stardew Valley Fishing System    |
+| Simply Swords                  | Оружие                                     | Weapon expansion         |
+| Simply More                    | Аддон на Simply Swords                     | Simply Swords addon      |
+| Spartan Shields & Weaponry     | Щиты и оружие                              | Shields & weaponry       |
+| Tinkers Construct              | Кастомные инструменты                      | Custom tools & smelting  |
 
 ---
