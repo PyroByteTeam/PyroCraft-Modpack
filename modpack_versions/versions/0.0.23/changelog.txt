@@ -1,0 +1,7 @@
+## EN
+- Config Fix for Sparse Structures (Alex's Caves compatibility) 
+- Added Dungeon now loading 2.0
+
+## RU
+- Фикс конфига Sparse Structures (совместивость с Alex's Caves)
+- Добавлен Dungeon now Loading 2.0
