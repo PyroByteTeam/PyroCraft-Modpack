@@ -136,6 +136,7 @@ RU:
 | All from YUNG                   | Генерация структур и данжей                | Structures & dungeons (YUNG’s series)     |
 | Dimensional Doors               | Порталы в подпространства                  | Pocket-Dimensions and Portals             |
 | Bosses N Rise                   | Интересные проработанные боссы             | Interesting well-made bosses              |
+| Dungeon now Loading             | Новые данжи с уникальными механиками       | New Dungeons with unique mechanics        |
 
 ---
 
