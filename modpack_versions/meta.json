@@ -56,6 +56,17 @@
             }
         },
         "updateType": "minor"
+    },
+    {
+        "id": "0.0.24",
+        "releasedAt": 1758008762,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/pyrocraft-create/version/0.0.24",
+                "generic": "https://github.com/PyroByteTeam/PyroCraft-Modpack/releases/tag/v0.0.24"
+            }
+        },
+        "updateType": "minor"
     }
   ]
 }

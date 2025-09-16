@@ -1,0 +1,19 @@
+## EN
+BETA = QUESTS NOT DONE
+- Continuation of work on quests
+- Updated Sophisticated Backpacks
+- Updated Sophisticated Storage
+- Updated Sophisticated Core
+- Updated ImmediatelyFast
+- Updated Macaw Holidays
+- Updated Loot Journal
+
+## RU
+БЕТА = КВЕСТЫ НЕ ГОТОВЫ
+- Продолжается работа над квестами
+- Обновлен Sophisticated Backpacks
+- Обновлен Sophisticated Storage
+- Обновлен Sophisticated Core
+- Обновлен ImmediatelyFast
+- Обновлен Macaw Holidays
+- Обновлен Loot Journal
