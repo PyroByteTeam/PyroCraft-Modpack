@@ -1,6 +1,7 @@
 ## EN
 BETA = QUESTS NOT DONE
 - Continuation of work on quests
+- Added Figura Mod
 - Updated Sophisticated Backpacks
 - Updated Sophisticated Storage
 - Updated Sophisticated Core
@@ -11,6 +12,7 @@ BETA = QUESTS NOT DONE
 ## RU
 БЕТА = КВЕСТЫ НЕ ГОТОВЫ
 - Продолжается работа над квестами
+- Добавлен мод Figura
 - Обновлен Sophisticated Backpacks
 - Обновлен Sophisticated Storage
 - Обновлен Sophisticated Core
