@@ -1,5 +1,6 @@
 ## EN 
 BETA = QUESTS NOT DONE
+- Forge 47.4.6 -> 47.4.9
 - Updated Sophisticated Mods (Core, Backpacks, Storage)
 - Updated WATERMEDIA
 - Updated Moonlight Lib
@@ -22,6 +23,7 @@ BETA = QUESTS NOT DONE
 
 ## RU 
 БЕТА = КВЕСТЫ НЕ ГОТОВЫ
+- Forge 47.4.6 -> 47.4.9
 - Обновлены моды Sophisticated (Core, Backpacks, Storage)
 - Обновлен WATERMEDIA
 - Обновлен Moonlight Lib
