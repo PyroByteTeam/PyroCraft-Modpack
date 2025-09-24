@@ -1,0 +1,43 @@
+## EN 
+BETA = QUESTS NOT DONE
+- Updated Sophisticated Mods (Core, Backpacks, Storage)
+- Updated WATERMEDIA
+- Updated Moonlight Lib
+- Updated Advanced Loot Info 
+- Updated Supplementaries
+- Updated Immersive Furniture
+- Updated Bosses N Rise 
+- Updated Colorwheel Patcher + Colorwheel 
+- Updated Sounds Physics addon 
+- Updated Euphoria Patches 
+- Updated Sound Physics Remastered 
+- Updated RightClickHarvest 
+- Updated Macaw Windows 
+- Updated Philips Ruins 
+- Updated Create Slice N Dice 
+- Updated Hex Ars Linker 
+- Updated Tectonic 
+- Updated Chat Heads 
+- Updated JEI
+
+## RU 
+БЕТА = КВЕСТЫ НЕ ГОТОВЫ
+- Обновлены моды Sophisticated (Core, Backpacks, Storage)
+- Обновлен WATERMEDIA
+- Обновлен Moonlight Lib
+- Обновлен Advanced Loot Info 
+- Обновлен Supplementaries
+- Обновлен Immersive Furniture
+- Обновлен Bosses N Rise 
+- Обновлены Colorwheel Patcher + Colorwheel 
+- Обновлен Sounds Physics addon 
+- Обновлен Euphoria Patches 
+- Обновлен Sound Physics Remastered 
+- Обновлен RightClickHarvest 
+- Обновлен Macaw Windows 
+- Обновлен Philips Ruins 
+- Обновлен Create Slice N Dice 
+- Обновлен Hex Ars Linker 
+- Обновлен Tectonic 
+- Обновлен Chat Heads 
+- Обновлен JEI
